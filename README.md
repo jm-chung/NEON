@@ -1,6 +1,6 @@
 <h1 align="left">NEON protocol</h1>
 
-# Implementation of "NEON as a navigator of energy open innovation ecosystems"
+## Implementation of "NEON as a navigator of energy open innovation ecosystems"
 This is an official source code for implementing NEON.
 
 ### Protocol structure

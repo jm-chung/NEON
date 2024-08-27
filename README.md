@@ -9,14 +9,19 @@ This is an official source code for implementing NEON.
 3) Energy open innovation network construction
 4) Research collaboration opportunity identification
 
-## Dataset
+### Dataset
 - data/entities_DeepWalk.pkl: the embedding vectors for nodes in Period 2.
 - data/processed_data.csv: the processed data for topic-paper-organization-nation links.
 - data/sample_papers.xlsx: the sample data collected from the Web of Science.
 - data/topic_labels.xlsx: the labels and abbreviations of research topics.
 
-## Code
-- 
+### Code
+- src/data_preprocessing.ipynb:
+- src/network_construction.ipynb:
+- src/triplet_recommendation.ipynb:
+
+### Collaboration Recommendation System
+The following images illustrate the design concept of collaboration recommendation system implementing our protocol.
 
 ### Citation
 If you find the codes useful, please cite our paper:

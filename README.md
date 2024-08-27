@@ -16,12 +16,12 @@ This is an official source code for implementing NEON.
 - data/topic_labels.xlsx: the labels and abbreviations of research topics.
 
 ### Code
-- src/data_preprocessing.ipynb:
-- src/network_construction.ipynb:
-- src/triplet_recommendation.ipynb:
+- src/data_preprocessing.ipynb: source code for data preprocessing, disambiguating the nationality of organizations, and preparing the topic-paper-organization-nation link data.
+- src/network_construction.ipynb: source code for modeling the energy open innovation network.
+- src/triplet_recommendation.ipynb: source code for recommending collaboration opportunities and drawing figures for the collaboration recommendation system.
 
 ### Collaboration Recommendation System
-The following images illustrate the design concept of collaboration recommendation system implementing our protocol.
+The following images illustrate the design concept for the interactive web service of the collaboration recommendation system implementing our protocol.
 
 ### Citation
 If you find the codes useful, please cite our paper:

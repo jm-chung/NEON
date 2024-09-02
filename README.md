@@ -25,6 +25,7 @@ This is an official source code for implementing NEON.
 
 ### Collaboration Recommendation System
 The following images illustrate the design concept for the interactive web service of the collaboration recommendation system implementing our protocol.
+
 ![](./image/img1.png)
 
 ### Citation

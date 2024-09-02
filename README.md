@@ -2,7 +2,7 @@
 
 ## Implementation of "NEON as a navigator of energy open innovation ecosystems"
 This is an official source code for implementing NEON.
-
+<hr/>
 ### Protocol structure
 1) Data collection and preprocessing
 2) Energy-specific topic detection

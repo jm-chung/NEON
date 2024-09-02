@@ -10,6 +10,9 @@ This is an official source code for implementing NEON.
 4) Research collaboration opportunity identification
 
 ### Dataset
+- data/bertopic_document_embeddings.pkl: the embedding vectors for documents in Period 1.
+- data/bertopic_get_document_info.pkl: the topic information for documents in Preiod 1.
+- data/betropic_topics_for_p2.pkl: inferred topics for the documents in Period 2.
 - data/entities_DeepWalk.pkl: the embedding vectors for nodes in Period 2.
 - data/processed_data.csv: the processed data for topic-paper-organization-nation links.
 - data/sample_papers.xlsx: the sample data collected from the Web of Science.
@@ -22,6 +25,7 @@ This is an official source code for implementing NEON.
 
 ### Collaboration Recommendation System
 The following images illustrate the design concept for the interactive web service of the collaboration recommendation system implementing our protocol.
+![](./image/img1.png)
 
 ### Citation
 If you find the codes useful, please cite our paper:

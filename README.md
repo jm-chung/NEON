@@ -12,10 +12,6 @@ This is an official source code for implementing NEON.
 
 
 ### Dataset
-- data/bertopic_document_embeddings.pkl: the embedding vectors for documents in Period 1.
-- data/bertopic_get_document_info.pkl: the topic information for documents in Preiod 1.
-- data/betropic_topics_for_p2.pkl: inferred topics for the documents in Period 2.
-- data/entities_DeepWalk.pkl: the embedding vectors for nodes in Period 2.
 - data/processed_data.csv: the processed data for topic-paper-organization-nation links.
 - data/sample_papers.xlsx: the sample data collected from the Web of Science.
 - data/topic_labels.xlsx: the labels and abbreviations of research topics.

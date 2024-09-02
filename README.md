@@ -12,7 +12,6 @@ This is an official source code for implementing NEON.
 
 
 ### Dataset
-- data/bertopic_topics_for_p2.pkl: the inferred topics for documents in Preiod 2.
 - data/processed_data.csv: the processed data for topic-paper-organization-nation links.
 - data/sample_papers.xlsx: the sample data collected from the Web of Science.
 - data/topic_labels.xlsx: the labels and abbreviations of research topics.

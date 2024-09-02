@@ -19,12 +19,14 @@ This is an official source code for implementing NEON.
 - data/processed_data.csv: the processed data for topic-paper-organization-nation links.
 - data/sample_papers.xlsx: the sample data collected from the Web of Science.
 - data/topic_labels.xlsx: the labels and abbreviations of research topics.
+> The results of topic detection and network embedding can be obtained through external Python libraries.
 
 
 ### Code
 - src/data_preprocessing.ipynb: source code for data preprocessing, disambiguating the nationality of organizations, and preparing the topic-paper-organization-nation link data.
 - src/network_construction.ipynb: source code for modeling the energy open innovation network.
 - src/triplet_recommendation.ipynb: source code for recommending collaboration opportunities and drawing figures for the collaboration recommendation system.
+> Topic detection and network embedding can be performed via external Python libraries.
 
 
 ### Collaboration Recommendation System
